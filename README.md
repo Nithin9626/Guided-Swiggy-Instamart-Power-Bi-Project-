@@ -1,1 +1,5 @@
-# Guided-Swiggy-Instamart-Power-Bi-Project-
+This Power BI dashboard presents a comprehensive analysis of Swiggy Instamart’s sales performance and outlet dynamics, specifically focused on dairy products. With a total sales value of $925K, the dashboard enables users to gain actionable insights through a visually compelling and interactive interface. Key metrics displayed include total sales, number of items (618), average sales (1K), and an average customer rating of 2.3, offering a snapshot of product and outlet performance.
+
+The dashboard explores sales by fat content (low fat vs. regular), outlet size distribution (large, medium, and small), and outlet location tier (Tier 1 to Tier 3), providing clarity on where revenue is concentrated. Additionally, a time-series analysis of outlet establishment trends between 2000 and 2020 helps track growth and dips in operations. A detailed panel on outlet types compares supermarkets and grocery stores based on sales volume, number of items, average sales, and visibility.
+
+With filters for item type, outlet size, and location, users can customize their view and derive focused insights. This tool is ideal for retail analysts and operations teams aiming to optimize inventory, evaluate outlet performance, and strategize expansion.
